@@ -20,7 +20,7 @@
     }
   ],
   "dependencies": {
-    "jquery": "2.1.1"
+    "jquery": "^2.1.1"
   },
   "main": "js/jquery.tooltipster.js",
   "gitHead": "c90edb13de0eff42f407e3749f304d5a74de2f42",

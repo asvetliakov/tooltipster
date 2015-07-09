@@ -9,7 +9,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 */
 
-var jQuery = require('jquery');
+var $ = require('jquery');
 //;(function ($, window, document) {
 
 	var pluginName = "tooltipster",
