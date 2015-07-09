@@ -9,7 +9,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 */
 
-;(function ($, window, document) {
+var jQuery = require('jquery');
+//;(function ($, window, document) {
 
 	var pluginName = "tooltipster",
 		defaults = {
@@ -1324,4 +1325,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		}
 		return false;
 	}
-})( jQuery, window, document );
+//})( jQuery, window, document );
